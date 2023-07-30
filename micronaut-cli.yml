@@ -1,0 +1,6 @@
+applicationType: default
+defaultPackage: org.coenvk.notificationsystem.identity
+testFramework: junit
+sourceLanguage: java
+buildTool: maven
+features: [annotation-api, app-name, data, data-jdbc, graalvm, h2, http-client, jackson-databind, java-application, jdbc-hikari, junit, logback, maven, netty-server, reactor, reactor-http-client, readme, security-annotations, security-jwt, shade, spring-boot-java, yaml]
